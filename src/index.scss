@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+$mainBlack: #222;
+$mainGreen: royalblue;
+$mainWhite: #fff;
+$mainGrey: #ececec;
+
+body {
+  background: $mainWhite;
+  color: $mainBlack;
+  font-family: 'Quattrocento Sans', sans-serif;
+}
